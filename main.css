@@ -1,0 +1,45 @@
+#headbox{ 
+    width: 100%;
+    height: 20%;
+    background-image: url(img/header_bg.png);
+    background-repeat: repeat-x;
+    background-size: cover;
+    text-align:center; 
+    
+}
+#titlelogo{
+
+        width: 100%;
+        height:100%;
+        padding-top: 30px;
+}
+#menu {
+    
+    width: 15%;
+    height: 80%;
+    padding: 20px;
+    border: #000000 dashed 1px;
+    background: #ffffff;
+}
+#commentary {
+    
+    position: absolute; 
+    top : 20.5%;
+    left :18%;
+    width: 78.85%;
+    height: 22%;
+    padding: 20px;
+    border: #000000 dashed 1px;
+    background: #ffffff;
+}
+#effect {
+    
+    position: absolute; 
+    top : 47.5%;
+    left :18%;
+    width: 78.85%;
+    height: 51.5%;
+    padding: 20px;
+    border: #000000 dashed 1px;
+    background: #ffffff;
+}
