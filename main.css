@@ -16,7 +16,7 @@
 #menu {
     
     width: 15%;
-    height: 80%;
+    height: 135.05%;
     padding: 20px;
     border: #000000 dashed 1px;
     background: #ffffff;
@@ -24,9 +24,9 @@
 #commentary {
     
     position: absolute; 
-    top : 20.5%;
+    top : 20.8%;
     left :18%;
-    width: 78.85%;
+    width: 78.3%;
     height: 22%;
     padding: 20px;
     border: #000000 dashed 1px;
@@ -37,8 +37,8 @@
     position: absolute; 
     top : 47.5%;
     left :18%;
-    width: 78.85%;
-    height: 51.5%;
+    width: 78.3%;
+    height: 105%;
     padding: 20px;
     border: #000000 dashed 1px;
     background: #ffffff;
